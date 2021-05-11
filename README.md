@@ -5,3 +5,11 @@ The test code, trained network, and partial testing dataset of the proposed CLEA
 platform (python): ubuntu20.04, cuda-10.1, cudnn-7.6.4, tensorflow-gpu 1.13.2
 
 platform (matlab): win10, matlabR2019b
+
+#run the test code after checking file path
+
+python test.py
+
+#compute quantitative results after checking file path 
+
+metrics/Analysis.m
